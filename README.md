@@ -1,2 +1,2 @@
 # craig-clone
-This is an e-commerce website developed using Django
+This is Craiglist Clone developed using Django
